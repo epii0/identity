@@ -1,0 +1,14 @@
+{
+  "name": "@epii0/identity",
+  "version": "0.1.0",
+  "description": "Official machine-readable identity metadata for eπi0.",
+  "type": "module",
+  "exports": "./index.js",
+  "files": ["index.js", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "license": "MIT",
+  "homepage": "https://epii0.com",
+  "repository": { "type": "git", "url": "git+https://github.com/epii0/identity.git" },
+  "bugs": { "url": "https://github.com/epii0/identity/issues" },
+  "publishConfig": { "access": "public" }
+}
